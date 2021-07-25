@@ -15,8 +15,8 @@ Technically, it's classfied by the local zoning folks as an apartment. However, 
 
 So, we call it a "studio" and slap an illritative adverb in front to sound catchy.
 
-Equipment is mostly used, if not just found in alley. We loath the commonly accepted belief that thousands upon thousands of dollars are required to create "professional" art. Being "professinal" is about how you conduct yourself and the methodoliges employed in the process.
+Equipment is mostly used, if not just found in alley. We loath the commonly accepted belief that thousands upon thousands of dollars are required to create "professional" art.
 
 The published content is meant for invoking some sort of thought or feeling.
-> [Happiness is best shared](https://en.wikipedia.org/wiki/Chris_McCandless)
+
 <!-- ![alt text](/assets/images/lower_shelf_eq.png) -->

@@ -7,15 +7,15 @@ permalink: /soundbot/
 
 # Open Source Audio
 
-A (partially) automated set of instructions to setup an open source sound production environment
+A (partially) automated set of instructions to setup an open source sound production environment. Someething.
 
 # Layers
 
-Currently, having a specific distrobution of Linux (Arch or Fedora) installed is required, however the idea is to be able to configure any running system for the use of sound production.
+Currently, having a specific distribution of Linux (Arch or Fedora) installed is required, however the idea is to be able to configure any running system for the use of sound production.
 
 ## Ansible
 
-One of the design aspects is to utilize currently existing open source tools. As opposed to scripting an install and configuration, Ansible is being used to help standardize how systems are setup. A major issue in getting a sound production environment setup is replicating the sound. Ansible helps ensure that systems configurations are consistently syncronized.
+One of the design aspects is to utilize currently existing open source tools. As opposed to scripting an install and configuration, Ansible is being used to help standardize how systems are setup. A major issue in getting a sound production environment setup is replicating the sound. Ansible helps ensure that systems configurations are consistently synchronized.
 
 ## Ruby
 
@@ -24,7 +24,7 @@ Ruby is a programming language. It's excellent at allowing the instructions to b
 Ruby is also used in some custom tools;
 
 # $$deadsampler$$
-  - #### Utilizing [deadbeef](https://deadbeef.sourceforge.io/), samples can be anyalyed using sonic-annotator, tagged and sorted into collections. [Sonyonm](https://www.sononym.net/), is a sample collection manager that provies similar functionality with a dedicated UI.
+  - #### Utilizing [deadbeef](https://deadbeef.sourceforge.io/), samples can be analyzed using sonic-annotator, tagged and sorted into collections. [Sonyonm](https://www.sononym.net/), is a sample collection manager that provides similar functionality with a dedicated UI.
 
 # $$robot-stuff$$
 
