@@ -9,7 +9,7 @@ permalink: /soundbot/
 
 A (partially) automated set of instructions to setup an open source sound production environment. Supports a variety of possibilities.
 
-{% seqdiag %}
+<!-- {% seqdiag %}
 seqdiag {
   browser  -> webserver [label = "GET /index.html"];
   browser <-- webserver;
@@ -53,7 +53,7 @@ nwdiag {
       convert [label = "go eat ice cream"];
     }
   }
-{% endactdiag %}
+{% endactdiag %} -->
 
 # Layers
 
