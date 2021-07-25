@@ -1,5 +1,5 @@
-- slug: blog
-  name: Blog
-
 - slug: audio
   name: Audio
+
+- slug: visual
+  name: Visual
