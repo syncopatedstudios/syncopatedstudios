@@ -9,13 +9,6 @@ permalink: /soundbot/
 
 A (partially) automated set of instructions to setup an open source sound production environment. Supports a variety of possibilities.
 
-{% blockdiag %}
-blockdiag {
-   A -> B -> C -> D;
-   A -> E -> F -> G;
-}
-{% endblockdiag %}
-
 {% seqdiag %}
 seqdiag {
   browser  -> webserver [label = "GET /index.html"];
