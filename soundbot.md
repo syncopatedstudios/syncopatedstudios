@@ -9,51 +9,6 @@ permalink: /soundbot/
 
 A (partially) automated set of instructions to setup an open source sound production environment. Supports a variety of possibilities.
 
-<!-- {% seqdiag %}
-seqdiag {
-  browser  -> webserver [label = "GET /index.html"];
-  browser <-- webserver;
-  browser  -> webserver [label = "POST /blog/comment"];
-              webserver  -> database [label = "INSERT comment"];
-              webserver <-- database;
-  browser <-- webserver;
-}
-{% endseqdiag %}
-
-{% nwdiag %}
-nwdiag {
-  network soundbot {
-      address = "210.x.x.x/24"
-
-      soundbot01_reaper_node [address = "210.x.x.1"];
-      soundbot02_mic_node [address = "210.x.x.2"];
-      soundbot03_controller_node [address = "210.x.x.3"];
-  }
-  network nodes {
-      address = "172.x.x.x/24";
-
-      soundbot01 [address = "172.x.x.1"];
-      soundbot02 [address = "172.x.x.2"];
-      db01;
-      db02;
-  }
-}
-{% endnwdiag %}
-
-{% actdiag %}
-  actdiag {
-    write -> convert -> image
-
-    lane user {
-      label = "decision"
-      write [label = "Thinking about using this"];
-      image [label = "Still thinking about using this"];
-    }
-    lane actdiag {
-      convert [label = "go eat ice cream"];
-    }
-  }
-{% endactdiag %} -->
 
 # Layers
 
