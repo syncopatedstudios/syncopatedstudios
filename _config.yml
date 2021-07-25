@@ -25,6 +25,14 @@ exclude: ["README.md", "README.html", "Gemfile", "Gemfile.lock", "resources/*", 
 highlighter: null
 markdown: kramdown
 
+plugins:
+  - jekyll-diagrams
+
+jekyll-diagrams:
+  font: "Hack Nerd Font"
+  size: 320x240
+  antialias: true
+
 sass:
     sass_dir: _sass
 #plugins:
