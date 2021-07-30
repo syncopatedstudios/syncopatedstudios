@@ -7,8 +7,8 @@ body {
     margin-right: 20px;
 }
 a {
-    color: #f4ecbe;
-    font-weight: normal;
+    color: #35b61f;
+    font-weight:  400;
     text-decoration: none;
 
     &:hover {
@@ -129,7 +129,8 @@ strong {
 }
 
 .menu__entry a {
-    font-weight: 400;
+    font-size: 32px;
+    font-weight: 600;
 }
 
 .social-links {
