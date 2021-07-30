@@ -10,13 +10,16 @@ url: "https://syncopatedstudios.github.io" # the base hostname & protocol for yo
 author:
   fullname: Robert Pannick
   googleplus:
-  github: b08x
+  github: syncopatedstudios
   twitter:
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
 # Syntax highlighting
+highlightstyle: "railscasts"
+styles: ["railscasts"]
+
 
 # Handling Reading
 exclude: ["README.md", "README.html", "Gemfile", "Gemfile.lock", "resources/*", "_drafts/*", "_mdwriter.cson"]
@@ -27,6 +30,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-diagrams
+  - jekyll-target-blank
 
 jekyll-diagrams:
   font: "Hack Nerd Font"

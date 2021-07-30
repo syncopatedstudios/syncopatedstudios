@@ -1,14 +1,14 @@
 /* =Base */
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Gowun Batang', serif;
     color: #ed2f2f;
     background-color: $dorian;
     margin-left: 20px;
     margin-right: 20px;
 }
 a {
-    color: #26c932;
-    font-weight: bold;
+    color: #f4ecbe;
+    font-weight: normal;
     text-decoration: none;
 
     &:hover {
@@ -91,7 +91,7 @@ strong {
 
 /* =Header */
 .wrapper {
-    max-width: 1020px;
+    max-width: 80%;
     margin: 20px auto;
 }
 
@@ -106,7 +106,7 @@ strong {
 .logo {
     font-size: 50px;
     font-weight: 700;
-    color: $iron;
+    color: $primary;
     display: block;
 }
 
@@ -133,7 +133,7 @@ strong {
 }
 
 .social-links {
-    float:right;
+    float: unset;
     font-size: 24px;
     color: $cloudy;
     list-style-type: none;
@@ -281,6 +281,7 @@ strong {
 
     .wrapper {
         width: 80%;
+        background-color: #ffffff;
     }
 
     .navigation,

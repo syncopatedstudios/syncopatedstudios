@@ -1,11 +1,15 @@
 ---
 layout: page
 title: library
-subtitle: infomation and resources
+subtitle:
 permalink: /library/
 ---
 
+This is a block of text.
 
-## documents
 
-## sounds
+More text.
+
+```
+code
+```

@@ -13,6 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-scholar"
   gem "jekyll-compose"
   gem 'jekyll-diagrams'
+  gem 'jekyll-target-blank'
 end
 
 gem "jekyll"
