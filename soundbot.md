@@ -93,6 +93,18 @@ Ruby is a programming language. It's excellent at allowing the instructions to b
 ## `sonic-pi`
 midi controller, synthsizer, sampler
 
+## `qmidiarp`
+arpeggiator, sequencer, LFO
+
+## `sooperlooper`
+a looper
+
+~~## `ipfs`~~
+a distributed file share
+
+## `beets`
+audio library databse - can create m3u playlist which can be sent to deadbeef/mixxx, with the files distributed via ipfs.
+
 ## `deadbeef`
 samples can be analyzed using sonic-annotator, tagged and sorted into collections.
 
@@ -104,6 +116,9 @@ samesies
 
 ## `zita`
 various filters, crossover
+
+## `carla`
+plugin host with osc
 
 ## `hydrogen`
 patterns, sampler
